@@ -1,0 +1,20 @@
+<template>
+    <ul class="list-group">
+        <li class="list-group-item"><a href="#">Home</a></li>
+        <li class="list-group-item"><a href="#">About</a></li>
+        <li class="list-group-item active"><a class="text-light" href="#">Contact</a></li>
+       
+    </ul>
+</template>
+
+<script>
+export default {
+    data() {
+         return{}
+    }
+}
+</script>
+
+<style scoped>
+
+</style>
